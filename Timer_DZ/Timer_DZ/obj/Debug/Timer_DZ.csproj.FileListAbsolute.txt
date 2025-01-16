@@ -1,0 +1,7 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\Timer_DZ\Timer_DZ\bin\Debug\Timer_DZ.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\Timer_DZ\Timer_DZ\bin\Debug\Timer_DZ.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Timer_DZ\Timer_DZ\bin\Debug\Timer_DZ.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\Timer_DZ\Timer_DZ\obj\Debug\Timer_DZ.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Timer_DZ\Timer_DZ\obj\Debug\Timer_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\Timer_DZ\Timer_DZ\obj\Debug\Timer_DZ.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\Timer_DZ\Timer_DZ\obj\Debug\Timer_DZ.pdb

@@ -1,0 +1,42 @@
+D:\Visual Studio Projects\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.exe
+D:\Visual Studio Projects\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.deps.json
+D:\Visual Studio Projects\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.runtimeconfig.json
+D:\Visual Studio Projects\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.dll
+D:\Visual Studio Projects\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.pdb
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.AssemblyInfo.cs
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.dll
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\refint\SysProg01_Timers.dll
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.pdb
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.genruntimeconfig.cache
+D:\Visual Studio Projects\SysProg01_Timers\obj\Debug\net8.0\ref\SysProg01_Timers.dll
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.exe
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.deps.json
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.runtimeconfig.json
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.dll
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.pdb
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.GeneratedMSBuildEditorConfig.editorconfig
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.AssemblyInfoInputs.cache
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.AssemblyInfo.cs
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.csproj.CoreCompileInputs.cache
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.dll
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\refint\SysProg01_Timers.dll
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.pdb
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.genruntimeconfig.cache
+\\progers\Students\Группа П22\Системное программирование\SysProg01_Timers\obj\Debug\net8.0\ref\SysProg01_Timers.dll
+C:\Users\Student_06\Downloads\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.exe
+C:\Users\Student_06\Downloads\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.deps.json
+C:\Users\Student_06\Downloads\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.runtimeconfig.json
+C:\Users\Student_06\Downloads\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.dll
+C:\Users\Student_06\Downloads\SysProg01_Timers\bin\Debug\net8.0\SysProg01_Timers.pdb
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.AssemblyInfoInputs.cache
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.AssemblyInfo.cs
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.dll
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\refint\SysProg01_Timers.dll
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.pdb
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\SysProg01_Timers.genruntimeconfig.cache
+C:\Users\Student_06\Downloads\SysProg01_Timers\obj\Debug\net8.0\ref\SysProg01_Timers.dll

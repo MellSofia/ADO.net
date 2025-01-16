@@ -1,0 +1,15 @@
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.AssemblyReference.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\App.g.cs
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator_MarkupCompile.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator_MarkupCompile.lref
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\MainWindow.baml
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.g.resources
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.Properties.Resources.resources
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.GenerateResource.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.exe
+C:\Users\Student_06\Desktop\Ахмутдиновой\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.pdb

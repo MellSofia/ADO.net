@@ -1,0 +1,30 @@
+﻿<Window x:Class="NumberGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NumberGenerator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="659" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Введите нижнюю границу:" Margin="0,0,0,5"/>
+            <TextBox x:Name="LowerBoundTextBox" Width="200" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Введите верхнюю границу:" Margin="0,0,0,5"/>
+            <TextBox x:Name="UpperBoundTextBox" Width="200" Margin="0,0,0,10"/>
+
+            <Button Content="Начать генерацию простых чисел" Width="200" Margin="0,0,0,10" Click="StartButton_Click"/>
+            <Button Content="Остановить генерацию простых чисел" Width="200" Margin="0,0,0,10" Click="StopPrimesButton_Click"/>
+
+            <Button Content="Начать генерацию чисел Фибоначчи" Width="200" Margin="0,0,0,10" Click="StartFibonacciButton_Click"/>
+            <Button Content="Остановить генерацию Фибоначчи" Width="200" Margin="0,0,0,10" Click="StopFibonacciButton_Click"/>
+
+            <TextBlock Text="Простые числа:" Margin="0,20,0,5"/>
+            <ListBox x:Name="PrimeNumbersListBox" Height="150" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Числа Фибоначчи:" Margin="0,20,0,5"/>
+            <ListBox x:Name="FibonacciNumbersListBox" Height="150"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,88 @@
+Задание: Реализовать базу данных "Университет" с помощью Entity Framework.
+
+Результат: проект VS.
+
+База данных "Университет"
+
+CREATE TABLE groups(
+  id int primary key identity(1,1),
+  title varchar(15)
+);
+
+CREATE TABLE teachers(
+  id int primary key identity(1,1),
+  first_name varchar(15),
+  second_name varchar(15),
+  subject varchar(15),
+  group_id int,
+  foreign KEY (group_id) references groups(id)
+);
+
+CREATE TABLE students(
+  id int primary key identity(1,1),
+  first_name varchar(15),
+  second_name varchar(15),
+  group_id int,
+  foreign key (group_id) references groups(id)
+);
+
+CREATE TABLE grades(
+  id int primary key identity(1,1),
+  student_id int,
+  teacher_id int,
+  rating int,
+  foreign key (student_id) references students(id),
+  foreign key (teacher_id) references teachers(id)
+);
+
+INSERT INTO groups (title) VALUES
+('AAB-31'),
+('GGW-15'),
+('TAQ-11'),
+('VBN-27'),
+('YUF-41'),
+('FFC-35');
+
+INSERT INTO teachers (first_name, second_name, subject, group_id) VALUES
+('John', 'Smith', 'Math', 1),
+('Emily', 'Johnson', 'Physics', 2),
+('Michael', 'Williams', 'Chemistry', 1),
+('Sarah', 'Brown', 'Biology', 3),
+('David', 'Jones', 'History', 4),
+('Laura', 'Garcia', 'Literature', 5),
+('James', 'Martinez', 'Geography', 2);
+
+INSERT INTO students (first_name, second_name, group_id) VALUES
+('Alice', 'Smith', 1),
+('Bob', 'Johnson', 1),
+('Charlie', 'Williams', 2),
+('Daisy', 'Brown', 2),
+('Ethan', 'Jones', 3),
+('Fiona', 'Garcia', 3),
+('George', 'Martinez', 4),
+('Hannah', 'Hernandez', 4),
+('Ian', 'Lopez', 5),
+('Julia', 'Gonzalez', 5),
+('Emily', 'Smith', 2);
+
+INSERT INTO grades (student_id, teacher_id, rating) VALUES
+(1, 1, 9),  -- Alice Smith, Math, John Smith
+(2, 1, 8),  -- Bob Johnson, Math, John Smith
+(3, 2, 7),  -- Charlie Williams, Physics, Emily Johnson
+(4, 2, 6),  -- Daisy Brown, Physics, Emily Johnson
+(5, 3, 10), -- Ethan Jones, Chemistry, Michael Williams
+(6, 3, 9),  -- Fiona Garcia, Chemistry, Michael Williams
+(7, 4, 8),  -- George Martinez, History, David Jones
+(8, 4, 7),  -- Hannah Hernandez, History, David Jones
+(9, 5, 10), -- Ian Lopez, Literature, Laura Garcia
+(10, 5, 9), -- Julia Gonzalez, Literature, Laura Garcia
+(1, 3, 8),  -- Alice Smith, Chemistry, Michael Williams
+(2, 4, 7),  -- Bob Johnson, Biology, Sarah Brown
+(3, 5, 9),  -- Charlie Williams, Literature, Laura Garcia
+(4, 6, 6),  -- Daisy Brown, Geography, James Martinez
+(5, 2, 8),  -- Ethan Jones, Physics, Emily Johnson
+(6, 1, 10), -- Fiona Garcia, Math, John Smith
+(7, 3, 7),  -- George Martinez, Chemistry, Michael Williams
+(8, 5, 9),  -- Hannah Hernandez, Literature, Laura Garcia
+(9, 2, 8),  -- Ian Lopez, Physics, Emily Johnson
+(10, 4, 10); -- Julia Gonzalez, Biology, Sarah Brown

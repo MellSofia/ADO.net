@@ -1,0 +1,210 @@
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.exe
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.deps.json
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.runtimeconfig.json
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.pdb
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Azure.Core.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Azure.Identity.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.ClientModel.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Text.Json.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.AssemblyInfo.cs
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET0.4B0D3CE6.Up2Date
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\refint\ADO.NET04_EntityFramework.dll
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.pdb
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.genruntimeconfig.cache
+D:\Visual Studio Projects\ADO.NET04_EntityFramework\obj\Debug\net8.0\ref\ADO.NET04_EntityFramework.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.exe
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.deps.json
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.runtimeconfig.json
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.pdb
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.AssemblyInfo.cs
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET0.4B0D3CE6.Up2Date
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\refint\ADO.NET04_EntityFramework.dll
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.pdb
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.genruntimeconfig.cache
+C:\Users\Student_06\Downloads\ADO.NET04_EntityFramework\obj\Debug\net8.0\ref\ADO.NET04_EntityFramework.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.exe
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.deps.json
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\ADO.NET04_EntityFramework.pdb
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET0.4B0D3CE6.Up2Date
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\refint\ADO.NET04_EntityFramework.dll
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.pdb
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ADO.NET04_EntityFramework.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Ахмутдинова2\ADO.NET04_EntityFramework\obj\Debug\net8.0\ref\ADO.NET04_EntityFramework.dll
